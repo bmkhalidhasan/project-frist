@@ -1,0 +1,17 @@
+h1{
+    font-size: 50;
+}
+.name-hilight{
+    color:orange;
+}
+
+.half{
+
+width:30%;
+float:left; 
+margin-left:5%;
+padding-left:2%;
+}
+.half img{
+    width:100%;
+}
